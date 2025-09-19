@@ -1,11 +1,5 @@
 [
   {
-    "username": "daffa",
-    "password": "1",
-    "role": "admin",
-    "expired": "2025-09-27T05:41:27.507Z"
-  },
-  {
     "username": "kapotid",
     "password": "1",
     "role": "admin",
